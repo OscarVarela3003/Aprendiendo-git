@@ -1,0 +1,9 @@
+1 git init: Inicializar un repositorio de git local
+2. git add . :  Agregar todos los archivos nuevos, modificados o eliminados al stage area (que git trackee los cambios)
+3. git commit -m "{mensaje de commit}": Crear un punto checkpoint con los cambios hechos en el repositorio.
+4. git push -u origin master (o nombre que sale en color azul): Sube los cambios hechos en el repositorio local al repositorio remoto
+
+5 git log : Muestra un historial con los checkpoints (Commits)
+6. git remote add origin "[LINK DEL REPOSITORIO REMOTO]":añade la direccion  del repositorio remoto al local para que exista una conexion entre ambos y asi poder
+subir cambios al repositorio remoto.
+7. git remote -v: Muestra la direccion del repositorio remoto
