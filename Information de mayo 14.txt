@@ -10,9 +10,10 @@ subir cambios al repositorio remoto.
 7. git remote -v: Muestra la direccion del repositorio remoto
 
 8 git status : Para saber cuales archivos no estan siendo trackeados
+9 git pull : para traer cambios mas actuales (No siempre disponible)
+10 git pull origin master :
+11 git clone + link del repositorio remoto.
 
 
 ignorar archivos dentro de un repositorio de git local
 crear archivo dentro la carpeta(extension .gitignore)
-
-su chingada madre
